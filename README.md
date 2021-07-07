@@ -1,2 +1,2 @@
-# tergum-ovirt-vm
-Backup and Restore Web App for Virtual Machines in oVirt Enviroments
+# Tergum
+Backup and Restore Web App for VM's in oVirt Enviroments
